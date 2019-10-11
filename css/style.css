@@ -1,0 +1,196 @@
+body{
+
+
+}
+
+.first{
+  background-image: url(../images/showcase.jpg);
+  background-position: center;
+  background-size: cover;
+  display: block;
+
+  width: 100%;
+  height: auto;
+
+  color: #fff;
+  text-align: center;
+}
+
+.first h1{
+  padding-top: 150px;
+  font-size: 50px;
+  line-height: 2.5;
+
+}
+.first h2{
+  padding: 0 50px;
+  font-size: 30px;
+
+}
+.first p{
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 20px 50px 80px  50px;
+  margin: 0;
+}
+@media (max-width: 800px){
+  #showcase p{
+    display: none;
+  }
+}
+
+/* showcase 1///////////// */
+
+.second{
+  background-color: #252525;
+  text-align: center;
+  color: #fff;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
+.second h1{
+  padding-top: 70px;
+}
+.second h2{
+  padding-top: 20px;
+}
+.second p{
+  padding-top: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 20px;
+}
+
+.btn{
+  margin-top: 10px;
+}
+
+
+/* showcase-2 */
+
+
+.third{
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.third h2{
+  padding-top: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+.third p{
+  font-weight: 500;
+  font-size: 20px;
+  color: #252525;
+  padding: 20px 70px 0;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+/*  showcase 3fourth...................................................... */
+
+
+.fourth{
+  background-image: url(../images/stars.jpg);
+  background-position: center;
+  background-size: cover;
+  display: block;
+    width: 100%;
+  height: auto;
+
+  text-align: center;
+  color: #fff;
+  padding-top: 150px;
+}
+
+.fourth h2{
+  font-size: 35px;
+}
+.fourth p{
+  padding: 40px 50px;
+  font-size: 18px;
+  margin: 0;
+}
+
+/* showcase 4///////////////////////////////////////////////////////////////////////////////////////////////// */
+#showcase-4{
+  overflow-x: hidden;
+}
+#showcase-4 {
+  margin: 0;
+  padding: 0;
+
+}
+#showcase-4 img{
+
+  margin: 0 auto;
+  width: 100%;
+
+  float: left;
+
+  }
+#showcase-4 h2{
+  padding-top: 70px;
+}
+
+#showcase-4 , p , a , h2{
+  padding-left: 20px;
+
+}
+
+
+/* showcase 5///////////////////////////////////////////// */
+#showcase-5{
+
+  display: flex;
+  color: #fff;
+  background-color:  #222831;
+  padding: 50px 300px 50px;
+  margin: 0;
+}
+
+#showcase-5 li {
+  list-style: none;
+  padding-bottom: 5px;
+  color: #de356a;
+
+}
+
+#showcase-5 a{
+  color: white;
+}
+
+
+#showcase-5 a:hover{
+  color: #843b62;
+  text-decoration: none;
+
+
+}
+@media (max-width: 1200px){
+  #showcase-5{
+    display: none;
+  }
+}
+
+
+/* shwcase 6////////////////////////////////////////////////////////////////////////// */
+.seventh{
+  background-color: #2c2727;
+  color: #fff;
+  text-align: center;
+  padding: 20px 10px;
+
+
+
+}
+/* dhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh */
